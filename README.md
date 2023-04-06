@@ -50,6 +50,7 @@ When we add a new entry, a window will pop up allowing us to double-check for er
 ## Generate password option
 
 In the config.ini file, we have the ability to customize the password to our needs, by default, it has a length of 12 to 18 characters.
+
 ![config](https://user-images.githubusercontent.com/121942715/230450919-916e6cf2-c633-4269-80dd-00808714350f.png)
 
 ## Footer
